@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="title" content="JavaVids: Java Videos" />
+<meta name="description" content="JavaVids contains free online video tutorials." />
+<meta name="keywords" content="javavids, java, video, tutorials" />
+<meta name="author" content="Jirka Pinkas" />
+<meta name="robots" content="index, follow" /> 
+<meta name="rating" content="general" />
+<title>How To Use Maven Jetty Plugin</title>
+
+    <link rel="stylesheet" type="text/css" href="/js/app.bundle.css?timestamp=1641886921" />
+    <script type="text/javascript" src="/js/app.bundle.js?timestamp=1641886921"></script>
+
+
+</head>
+<body>
+  <div class="container">
+<header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom" style="background-color: white;margin-top:10px;">
+    <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+      <img src="/img/logo.jpg" class="logo" />
+    </a>
+</header>
+</div>
+  <div class="container">
+      <div class="row">
+          <div class="col-md-3 card order-last">
+            <div class="card-body">
+              <script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- javavids-vlevo -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-7085637172523095"
+     data-ad-slot="1753062007"></ins>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+            </div>
+          </div>
+          <div class="col-md-9">
+            <div class="card">
+              <div class="card-body">
+                <nav aria-label="breadcrumb">
+                  <ol class="breadcrumb">
+                      <li class="breadcrumb-item"><a href="/">Home</a></li>
+                      <li class="breadcrumb-item"><a href="/tutorial/apache-maven">Apache Maven</a></li>
+                      <li class="breadcrumb-item active" aria-current="page">How To Use Maven Jetty Plugin</li>
+                  </ol>
+                </nav>
+
+                <h1>
+                  How To Use Maven Jetty Plugin
+                </h1>
+
+                <p>
+                  How to use Maven Jetty plugin for embedded Jetty web container. Jetty is popular Java EE servlet container. Jetty run, stop and configuration.
+                </p>
+
+                <p>
+    <script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- javavids-banner-responsive -->
+    <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="ca-pub-7085637172523095"
+        data-ad-slot="7621866008"
+        data-ad-format="auto"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</p>
+
+                <p align="center">
+                  <iframe width="750" height="411" src="https://www.youtube.com/embed/8_gcG1Lc4F0" frameborder="0"></iframe>
+                </p>
+    
+                <div class="content">
+                  <p>You can run your web applications on an embedded web container. Now I will show you how to use Jetty.&nbsp;</p>
+<p>&nbsp;</p>
+<p>But first a little bit about Jetty. It's a web container like Apache Tomcat. If you google Jetty, you will see Jetty on Codehaus and Eclipse. Jetty was a long time Codehaus project, but later it was moved to Eclipse Foundation.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Which version should you use depends on your Java SE and Java EE version. Let's see a documentation. There's "What version do I use?" and there's version 9, 8, 7. Version 9 requires Java SE 7 and implements Java EE 6.&nbsp;</p>
+<p>&nbsp;</p>
+<p>To use Jetty 9 in your project add this plugin to your pom.xml file:</p>
+<pre class="prettyprint">&lt;plugin&gt;
+  &lt;groupId&gt;org.eclipse.jetty&lt;/groupId&gt;
+  &lt;artifactId&gt;jetty-maven-plugin&lt;/artifactId&gt;
+  &lt;version&gt;9.1.0.v20131115&lt;/version&gt;
+  &lt;/plugin&gt;
+</pre>
+<p>To use Jetty 8 go to Codehaus, there's documentation and use this plugin instead:</p>
+<pre class="prettyprint">&lt;plugin&gt;
+  &lt;groupId&gt;org.mortbay.jetty&lt;/groupId&gt;
+  &lt;artifactId&gt;jetty-maven-plugin&lt;/artifactId&gt;
+  &lt;version&gt;8.1.14.v20131031&lt;/version&gt;
+&lt;/plugin&gt;
+</pre>
+<p>To run Jetty server, run your Maven application with goal:</p>
+<pre class="prettyprint">jetty:run
+</pre>
+<p>To stop Jetty server click on button Terminate in Eclipse.</p>
+<p>&nbsp;</p>
+<p>You can also stop Jetty server using goal jetty:stop, but you have to configure it first:</p>
+<p>&nbsp;</p>
+<pre class="prettyprint">&lt;plugin&gt;
+  &lt;groupId&gt;org.eclipse.jetty&lt;/groupId&gt;
+  &lt;artifactId&gt;jetty-maven-plugin&lt;/artifactId&gt;
+  &lt;version&gt;9.1.0.v20131115&lt;/version&gt;
+  &lt;configuration&gt;
+    &lt;stopPort&gt;9966&lt;/stopPort&gt;
+    &lt;stopKey&gt;foo&lt;/stopKey&gt;
+  &lt;/configuration&gt;
+&lt;/plugin&gt;
+</pre>
+<p>&nbsp;</p>
+<p>And then if I run goal jetty:run, I can use goal jetty:stop to stop this Jetty instance.</p>
+<p>&nbsp;</p>
+<p>There are lot's of configuration options, see documentation.</p>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+    <div class="col-md-12 d-flex align-items-center" style="color: black;">
+        &copy; 2011 - 2022
+        &nbsp;
+        <a href='http://plus.google.com/100661368478614117231' rel='author' target='_blank'>Jirka Pinkas</a>
+        &nbsp;
+        <span>All Rights Reserved.</span>
+        &nbsp;
+        <span>My other projects:</span>
+        &nbsp;
+        <a href='https://www.topjavablogs.com' target='_blank'>Top Java Blogs</a>
+        &nbsp;
+        <a href='https://javalibs.com' target='_blank'>Search Maven Central Repository</a>
+        &nbsp;
+        <a href='https://www.java-skoleni.cz' target='_blank'>Java školení</a>
+        &nbsp;
+        <a href='https://www.sql-skoleni.cz' target='_blank'>SQL školení</a>
+    </div>
+  </footer>
+
+  </div>
+  <script>
+    $(function () {
+          $.each($(".content"), function(index, value) {
+              value.innerHTML = App.linkify(value.innerHTML);
+          });
+      })
+  </script>
+  </body>
+</html>

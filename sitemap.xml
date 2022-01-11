@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://javavids.com</loc>
+    <priority>1.0</priority>
+  </url>
+  
+    <url>
+      <loc>https://javavids.com/tutorial/java-basics</loc>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/tutorial/eclipse</loc>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/tutorial/logging</loc>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/tutorial/junit</loc>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/tutorial/java-files</loc>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/tutorial/java-xml</loc>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/tutorial/java-database</loc>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/tutorial/apache-tomcat</loc>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/tutorial/apache-maven</loc>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/tutorial/spring-web-application-tutorial-java-blogs-aggregator</loc>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/tutorial/jsf-primefaces-spring-website-monitoring</loc>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/tutorial/java-misc</loc>
+      <priority>0.8</priority>
+    </url>
+  
+  
+    <url>
+      <loc>https://javavids.com/video/difference-between-java-jre-and-jdk</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-set-java-environment-variables-on-windows</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/what-java-ide-integrated-development-environment-to-use</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/java-hello-world-program-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/java-packages-tutorial-part-1</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/java-packages-tutorial-part-2</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-create-an-executable-jar-file-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-write-generate-and-use-javadoc-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/java-library-system-tutorial-part-1</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/java-library-system-tutorial-part-2</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-create-a-java-class-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/java-public-private-package-visibility-modifiers</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-create-java-getters-and-setters-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/constructors-in-java-how-to-generate-a-constructor-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/java-jdk-eclipse-integration-see-java-sources-and-offline-javadoc</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/eclipse-ide-for-java-developers-and-java-ee-developers-together</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-install-eclipse-plugins-from-eclipse-marketplace</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-install-eclipse-plugins-using-browser</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-use-plugin-findbugs-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-import-a-project-into-your-eclipse-workspace</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-show-line-numbers-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-increase-change-font-size-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-change-jre--jdk-in-eclipse-project</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-format-code-in-eclipse-and-set-maximum-line-length-width</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/java-logging-101</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/logging-using-log4j-and-slf4j-in-java-se-application</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/java-log4j-slf4j-logging-in-java-ee-application</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/java-logging-template-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/log4jproperties-explained-part-1</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/log4jproperties-explained-part-2</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/junit-tutorial-how-to-create-a-test-class-in-eclipse-ide</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/junit-tutorial-how-to-create-a-test-in-eclipse-ide-part-2</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/eclipse-ide-perspectives-and-views</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-use-eclipse-debugger-tutorial</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-disable--enable-spell-checking-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/junit-assertions-methods</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/junit-expected-exceptions-timeout-and-ignoring-tests</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/junit--stub-example</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/junit--spring-integration-testing</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/java-streams-101-how-to-read-text-file</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-properly-structure-a-method-for-accessing-a-file-pre-java-7-style</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-work-with-streams-properly-since-java-7</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-read-text-file-in-java-with-user-defined-charset</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-easily-read-data-from-properties-file-in-java</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jaxb-xml-binding</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jaxb-generating-classes</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jaxb-marshalling-unmarshalling</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jdbc-driver-101</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/database-connection-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/eclipse-data-source-explorer-explained</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jboss-tools-hibernate-tools-installation</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-create-jpa-project-with-eclipselink</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/creating-a-jpa-project-with-eclipselink-and-maven</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jpa-20-hibernate-eclipselink-hello-world</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jpa-eclipselink-hibernate-entity-explained</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/primary-key-generation-in-jpa</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/junit-test-suite-in-eclipse-tutorial</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-read-data-from-blob-using-jpa-hibernate</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/mapping-date-and-time-in-jpa-hibernate-entity</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-create-a-hibernate-project-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/hibernate-console-configuration-and-usage</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jpa-project-using-hibernate-and-maven</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-configure-proxy-settings-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-run-eclipse-with-selected-vm</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/difference-between-javaexe-and-javawexe</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-increase-java-memory-fix</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/javazone-2012-the-java-heist</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/eclipse-juno-first-look</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/eclipse-juno-first-look-part-2</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/java-class-decompiler</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/using-joda-time</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-create-a-properties-file-in-java</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/using-date-calendar-and-simpledateformat-in-java</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/junit-and-maven-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-read-file-from-jar-file-classpath</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-disable-java-in-internet-explorer</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-disable-java-in-firefox</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-disable-java-in-chrome</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-disable-java-in-all-web-browsers</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/apache-tomcat-installation</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/apache-tomcat-startup-shutdown-scripts</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/tomcat-configuration-files-manager-application</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/deploying-applications-on-tomcat-psi-probe</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/apache-tomcat-and-eclipse-integration</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/logging-using-slf4j-log4j-in-maven-application</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/java-ee-6-web-application-hello-world</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/eclipse-maven-plugin-usage</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-compile-maven-project-with-different-java-version</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-change-file-name-generated-by-mvn-package</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-create-runnable-jar-file-with-maven</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/java-ee-5-web-application-with-maven</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-use-maven-project-with-integrated-tomcat</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/eclipse-jpa-diagram-editor</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/maven-java-ee-6-application</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-use-maven-jetty-plugin</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/maven-embedded-tomcat-automatic-redeploy</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/maven-jetty-embedded-automatic-redeploy</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/database-connection-in-eclipse-hsql</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/database-connection-in-eclipse-postgresql</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/database-connection-in-eclipse-oracle</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/maven-installation-in-windows</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-add-jar-file-to-local-maven-repository</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/maven-multi-module-project</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/apache-tomcat-as-a-windows-service</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/apache-tomcat--netbeans-integration</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/apache-tomcat-configuration</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/apache-tomcat-deploy-web-application</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/apache-tomcat-utf-8</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/eclipse-content-assist-without-ctrl-space</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/open-xml-in-pomxml-by-default-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/eclipse-external-maven-installation-integration</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-generate-web-xml-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-0-java-blog-aggregator-overview</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-1-hello-world-maven-java-ee-6</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-2-setting-github-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-3-spring-web-mvc-hello-world</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-4-apache-tiles</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-5-twitter-bootstrap</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-6-servlet-and-jsp-api</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-7-spring-root-context</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-8-persistence</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-9-jpa-entities</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-10-spring-data-jpa-basics</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-11-mvc-model-view-controller</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-12-apache-tiles-dynamic-menu</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-13-path-variable</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-14-jsp-include-directive</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-15-hibernate-lazy-initialization-exception</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-16-hibernate-transaction</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-17-spring-data-jpa-paging-and-sorting</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-18-jsp-form-binding-using-model-attribute</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-19-spring-security-basics</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-20-spring-security-login-page</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-21-spring-security-logout</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-22-spring-security-expressions</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-23-spring-security-and-jsp</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-24-spring-security-and-database</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-25-spring-security-bcrypt</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-26-registration-form-complete</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-27-spring-web-mvc-redirect</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-28-user-account</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-29-twitter-bootstrap-modal</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-30-twitter-bootstrap-tabs</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-31-jpa-hibernate-cascade</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-32-twitter-bootstrap-dynamic-modal</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-33-spring-security-preauthorize</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-34-utf-8</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-35-cross-site-scripting-xss</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-36-hibernate-validator</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-37-refactoring</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-38-jquery-validation-plugin</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-39-hibernate-unique-column</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-40-custom-validation-annotation</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-41-jquery-validation-plugin-remote</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-42-generating-jaxb-classes</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-43-unmarshalling-xml-file</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-44-junit-test-case</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-45-save-items</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-46-clob</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-47-scheduling</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-48-java-blog-aggregator-homepage</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-49-maven-package</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-50-heroku</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-51-spring-profiles-postgresql-db</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/generating-jaxb-classes-in-eclipse-from-xsd</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/generating-jaxb-classes-with-maven-plugin</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/creating-jaxb-classes-from-scratch</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jaxb-and-outofmemoryerror</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jaxb-access-restriction-warning</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-solve-source-not-found-error-during-debug-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-extras-bom-dependency</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-extras-redirect-attributes</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-increase-the-capacity-of-the-eclipse-output-console</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-read-and-write-text-files-since-java-se-7</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-copy-move-and-delete-file-in-java-since-java-se-7</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-get-free-available-and-total-disk-space-in-java</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/spring-web-app-tutorial-extras-apache-tiles-causes-server-error</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-0-website-monitoring-overview</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-1-hello-world-jsf</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-2-jsf-in-eclipse</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-3-eclipse-jdk-integration</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-4-java-ee-welcome-file</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-5-jsf-spring-integration</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-6-managedbean-vs-component-vs-named</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-7-project-lombok</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-8-maven-compile-to-java-8</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-9-spring-data-jpa-hibernate</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-10-primefaces-datatable</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-11-jsf-form-tag</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-12-jsf-bean-scopes</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-13-primefaces-update</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-14-jsf-messages-growl</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-15-jsf-validation-with-hibernate-validator</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-16-complete-jsf-crud-application</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-17-primefaces-confirm-dialog</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/jsf-primefaces-spring-tutorial-18-primefaces-dialog</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/how-to-use-dark-color-theme-in-eclipse-javavids</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/junit-eclipse-tip-content-assist</loc>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://javavids.com/video/junit-eclipse-tip-rerun-test</loc>
+      <priority>0.6</priority>
+    </url>
+  
+</urlset>

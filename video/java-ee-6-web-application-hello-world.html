@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="title" content="JavaVids: Java Videos" />
+<meta name="description" content="JavaVids contains free online video tutorials." />
+<meta name="keywords" content="javavids, java, video, tutorials" />
+<meta name="author" content="Jirka Pinkas" />
+<meta name="robots" content="index, follow" /> 
+<meta name="rating" content="general" />
+<title>Java EE 6 web application hello world</title>
+
+    <link rel="stylesheet" type="text/css" href="/js/app.bundle.css?timestamp=1641886921" />
+    <script type="text/javascript" src="/js/app.bundle.js?timestamp=1641886921"></script>
+
+
+</head>
+<body>
+  <div class="container">
+<header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom" style="background-color: white;margin-top:10px;">
+    <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+      <img src="/img/logo.jpg" class="logo" />
+    </a>
+</header>
+</div>
+  <div class="container">
+      <div class="row">
+          <div class="col-md-3 card order-last">
+            <div class="card-body">
+              <script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- javavids-vlevo -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-7085637172523095"
+     data-ad-slot="1753062007"></ins>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+            </div>
+          </div>
+          <div class="col-md-9">
+            <div class="card">
+              <div class="card-body">
+                <nav aria-label="breadcrumb">
+                  <ol class="breadcrumb">
+                      <li class="breadcrumb-item"><a href="/">Home</a></li>
+                      <li class="breadcrumb-item"><a href="/tutorial/apache-tomcat">Apache Tomcat</a></li>
+                      <li class="breadcrumb-item active" aria-current="page">Java EE 6 web application hello world</li>
+                  </ol>
+                </nav>
+
+                <h1>
+                  Java EE 6 web application hello world
+                </h1>
+
+                <p>
+                  Java EE 6 web application hello world in Eclipse without Maven. First servlet and simple doGet() method. Export to WAR (Web Application ARchive) file. Java web application structure explained including simple web.xml file.
+                </p>
+
+                <p>
+    <script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- javavids-banner-responsive -->
+    <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="ca-pub-7085637172523095"
+        data-ad-slot="7621866008"
+        data-ad-format="auto"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</p>
+
+                <p align="center">
+                  <iframe width="750" height="411" src="https://www.youtube.com/embed/R87zfu3STDc" frameborder="0"></iframe>
+                </p>
+    
+                <div class="content">
+                  <p>Let's create a Java web application in Eclipse. In this video I will perform this without Maven. Create a New Project -&gt; Dynamic Web Project, type project name: "HelloWorldWeb" and select Dynamic web module version = 3.0, which is Java EE 6.</p>
+<p>Whatever you put into WebContent directory will be directly visible to client. Let's add index.jsp page with some welcome text.</p>
+<p>JSP file says Hello world :)</p>
+<p>Next let's create some servlet, something like HelloServlet. Map it to "/hello.html" and inside doGet() method add this code:</p>
+<pre class="prettyprint">PrintWriter out = response.getWriter();
+out.println("&lt;html&gt;");
+out.println("&lt;body&gt;");
+out.println("Hello from first servlet!");
+out.println("&lt;/body&gt;");
+out.println("&lt;/html&gt;");</pre>
+<p>This will show this HTML code to user.</p>
+<p>To deploy this project to server, just simply drag and drop this project to appropriate server.</p>
+<p>Test index.jsp page and hello.html page.&nbsp;</p>
+<p>To create a WAR file right click on this project, choose Export -&gt; WAR file and select a destination. If you look inside created file, you will see that everything that was in WebContent is inside. Content of directories META-INF and WEB-INF is not directly visible to the client. Everything else like index.jsp is directly visible.&nbsp;</p>
+<p>Inside WEB-INF are two directories: directory "classes", where are Java class files that were in "Java resources". Right now just our servlet is inside. Inside "lib" directory can be JAR files whose classes would be accessible in this web application. Currently there are none.</p>
+<p>Inside lots of web applications is also web.xml file, which is inside WEB-INF directory and is called deployment descriptor of a web application. This file is not required since Java EE 6 and has been mostly replaced by annotations like @WebServlet. You can still use it even in Java EE 6, though.</p>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+    <div class="col-md-12 d-flex align-items-center" style="color: black;">
+        &copy; 2011 - 2022
+        &nbsp;
+        <a href='http://plus.google.com/100661368478614117231' rel='author' target='_blank'>Jirka Pinkas</a>
+        &nbsp;
+        <span>All Rights Reserved.</span>
+        &nbsp;
+        <span>My other projects:</span>
+        &nbsp;
+        <a href='https://www.topjavablogs.com' target='_blank'>Top Java Blogs</a>
+        &nbsp;
+        <a href='https://javalibs.com' target='_blank'>Search Maven Central Repository</a>
+        &nbsp;
+        <a href='https://www.java-skoleni.cz' target='_blank'>Java školení</a>
+        &nbsp;
+        <a href='https://www.sql-skoleni.cz' target='_blank'>SQL školení</a>
+    </div>
+  </footer>
+
+  </div>
+  <script>
+    $(function () {
+          $.each($(".content"), function(index, value) {
+              value.innerHTML = App.linkify(value.innerHTML);
+          });
+      })
+  </script>
+  </body>
+</html>
